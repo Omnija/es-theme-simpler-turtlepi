@@ -1,0 +1,13 @@
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../turtlepi-main.xml</include>
+
+	<view name="system, basic, detailed">
+
+		<image name="logo">
+			<path>./logo.svg</path>
+			<maxSize>1 0.06</maxSize>
+        </image>
+	</view>
+	
+</theme>
