@@ -1,4 +1,4 @@
-Based on "Simple/Simplified Static and Piulator" Themes.
+Based on "Turtle Pi" Themes.
 
 For use with EmulationStation (http://www.emulationstation.org/)
 
