@@ -29,6 +29,7 @@ license:		creative commons CC-BY-NC-SA
 			<origin>0 0</origin>
 			<size>1 1</size>
 		</image> 
+		
 		<textlist name="gamelist">
 			<pos>0.025 0.19</pos>
 			<size>0.950 0.68</size>
@@ -72,7 +73,7 @@ license:		creative commons CC-BY-NC-SA
 		<text name="md_lbl_players">
 			<color>ffffff</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./assets/hobo.woff</fontPath>
+			<fontPath>./assets/font.woff</fontPath>
 			<fontSize>0.04</fontSize>
 			<size>0.12 0.04</size>
 			<pos>0.177 0.25</pos>
@@ -80,7 +81,7 @@ license:		creative commons CC-BY-NC-SA
 		
 		<text name="md_players">
 			<color>ffffff</color>
-			<fontPath>./assets/hobo.woff</fontPath>
+			<fontPath>./assets/font.woff</fontPath>
 			<fontSize>0.04</fontSize>
 			<size>0.14 0.04</size>
 			<pos>0.31 0.25</pos>
@@ -124,7 +125,7 @@ license:		creative commons CC-BY-NC-SA
 			<selectedColor>ffffff</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffffff</secondaryColor>
-			<fontPath>./assets/hobo.woff</fontPath>
+			<fontPath>./assets/font.woff</fontPath>
 			<fontSize>0.030</fontSize>
 		</textlist> 	
 		
