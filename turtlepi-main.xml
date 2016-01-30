@@ -73,7 +73,7 @@ license:		creative commons CC-BY-NC-SA
 		<text name="md_lbl_players">
 			<color>ffffff</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./assets/font.woff</fontPath>
+			<fontPath>./assets/font.ttf</fontPath>
 			<fontSize>0.04</fontSize>
 			<size>0.12 0.04</size>
 			<pos>0.177 0.25</pos>
@@ -81,7 +81,7 @@ license:		creative commons CC-BY-NC-SA
 		
 		<text name="md_players">
 			<color>ffffff</color>
-			<fontPath>./assets/font.woff</fontPath>
+			<fontPath>./assets/font.ttf</fontPath>
 			<fontSize>0.04</fontSize>
 			<size>0.14 0.04</size>
 			<pos>0.31 0.25</pos>
@@ -104,13 +104,13 @@ license:		creative commons CC-BY-NC-SA
 	<!--  md_lbl_players, md_players -->
 
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount, md_developer, md_publisher, md_genre, md_playcount, md_description">
-			<fontPath>./assets/invisible.woff</fontPath>
+			<fontPath>./assets/invisible.ttf</fontPath>
 			<fontSize>0.01</fontSize>
 			<size>0.0 0.01</size>
 		</text>
 
 		<datetime name="md_releasedate, md_lastplayed">
-			<fontPath>./assets/invisible.woff</fontPath>
+			<fontPath>./assets/invisible.ttf</fontPath>
 			<fontSize>0.01</fontSize>
 			<size>0.0 0.01</size>
 		</datetime>
@@ -125,7 +125,7 @@ license:		creative commons CC-BY-NC-SA
 			<selectedColor>ffffff</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffffff</secondaryColor>
-			<fontPath>./assets/font.woff</fontPath>
+			<fontPath>./assets/font.ttf</fontPath>
 			<fontSize>0.030</fontSize>
 		</textlist> 	
 		
