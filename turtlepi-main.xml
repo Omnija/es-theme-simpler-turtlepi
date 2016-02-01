@@ -1,6 +1,6 @@
 <!--
 theme name:		simpler-turtlepi
-version:		1.0
+version:		1.1
 author:			Omnija
 license:		creative commons CC-BY-NC-SA
 -->
@@ -49,13 +49,6 @@ license:		creative commons CC-BY-NC-SA
 			<size>1 1</size>
 		</image>
 		
-	<!-- <image name="playerbar" extra="true">
-		    <path>./assets/playerbar.png</path>
-			<pos>0 0</pos>
-			<size>1 1</size>
-			<origin>0 0</origin>
-		</image> -->
-		
 		<image name="md_image">
 			<pos>0.25 0.56</pos>
 	   <!-- <size>0.135 0.301</size> -->
@@ -69,22 +62,30 @@ license:		creative commons CC-BY-NC-SA
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 		</textlist>
+		
+		<image name="player_overlay" extra="true">
+			<tile>false</tile>
+			<pos>0.252 0.271</pos>
+			<origin>0.5 0.5</origin>
+			<maxSize>0.15 0.15</maxSize>
+			<path>./assets/overlay-players.png</path>
+		</image>
 
 		<text name="md_lbl_players">
 			<color>ffffff</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./assets/font.ttf</fontPath>
-			<fontSize>0.04</fontSize>
+			<fontSize>0.034</fontSize>
 			<size>0.12 0.04</size>
-			<pos>0.177 0.25</pos>
+			<pos>0.185 0.25</pos>
 		</text>
 		
 		<text name="md_players">
 			<color>ffffff</color>
 			<fontPath>./assets/font.ttf</fontPath>
-			<fontSize>0.04</fontSize>
+			<fontSize>0.034</fontSize>
 			<size>0.14 0.04</size>
-			<pos>0.31 0.25</pos>
+			<pos>0.30 0.25</pos>
 		</text>	
 		
 	</view>
@@ -94,7 +95,9 @@ license:		creative commons CC-BY-NC-SA
 		<helpsystem name="help">
 			<textColor>ffffff</textColor>
 			<iconColor>ffffff</iconColor>
+			<fontPath>./assets/font2.ttf</fontPath>
 			<pos>0.020 0.935</pos>
+			<fontSize>0.025</fontSize>
 		</helpsystem>
 
 	</view>
@@ -133,6 +136,14 @@ license:		creative commons CC-BY-NC-SA
 			<pos>0.5 0.08</pos>
 			<origin>0.5 0.5</origin>
 			<maxSize>1 0.10</maxSize>
+		</image>
+		
+		<image name="turtle_overlay" extra="true">
+			<tile>false</tile>
+			<pos>0.965 0.95</pos>
+            <origin>0.5 0.5</origin>
+			<maxSize>0.1 0.1</maxSize>
+			<path>./assets/overlay-turtle.png</path>
 		</image>
 		
 	</view>

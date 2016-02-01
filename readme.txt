@@ -8,6 +8,10 @@ Transfer simpler-turtlepi to /etc/emulationstation/themes/
 
 Open Menu -> Select UI Settings ->  Theme Set
 
+Changelog('Simpler Turtle Pi' v1.1)
+==========================
+Re-Worked Logos
+Redesigned Idea
 
 Changelog('Simpler Turtle Pi' v1.0)
 ==========================
