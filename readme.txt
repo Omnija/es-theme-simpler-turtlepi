@@ -12,8 +12,9 @@ Changelog('Simpler Turtle Pi' v1.1)
 ==========================
 Re-Worked Logos
 Redesigned Idea
+Compatibility for 4:3 and 16:9
 
-Changelog('Simpler Turtle Pi' v1.0)
+Change log('Simpler Turtle Pi' v1.0)
 ==========================
 Initial Release (will run under gpu_mem=128)
 
