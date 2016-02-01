@@ -7,7 +7,7 @@
 	<!-- basic, detailed -->
 	
 		<image name="logo">
-			<path>./logo.svg</path>
+			<path>./logo.png</path>
         </image>
 	</view>
 	
