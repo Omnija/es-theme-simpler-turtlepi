@@ -8,6 +8,11 @@ Transfer simpler-turtlepi to /etc/emulationstation/themes/
 
 Open Menu -> Select UI Settings ->  Theme Set
 
+Changelog('Simpler Turtle Pi' v1.2)
+==========================
+Added Dragon 32/64 and LOVE systems
+Change M.A.M.E (Initialized)
+
 Changelog('Simpler Turtle Pi' v1.1)
 ==========================
 Re-Worked Logos
