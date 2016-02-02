@@ -14,8 +14,8 @@
 	<view name="basic, detailed">
 
 		<text name="logoText" extra="true">
-			<text>LÖVE (Game Engine)</text>
-			<forceUppercase>1</forceUppercase>
+			<text>M.A.M.E4ALL (Arcade)</text>
+		<!-- <forceUppercase>1</forceUppercase> -->
 			<size>0.45 0.08</size>
 			<pos>0.28 0.045</pos>
 			<color>ffffff</color>

@@ -11,7 +11,8 @@ Open Menu -> Select UI Settings ->  Theme Set
 Changelog('Simpler Turtle Pi' v1.2)
 ==========================
 Added Dragon 32/64 and LOVE systems
-Change M.A.M.E (Initialized)
+Added AdvMAME and MAME4ALL systems
+Change MAME (Initialized) Logo
 
 Changelog('Simpler Turtle Pi' v1.1)
 ==========================
