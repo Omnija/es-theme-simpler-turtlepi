@@ -12,6 +12,7 @@ Changelog('Simpler Turtle Pi' v1.2)
 ==========================
 Added Dragon 32/64 and LOVE systems
 Added AdvMAME and MAME4ALL systems
+Added Game and Watch
 Change MAME (Initialized) Logo
 
 Changelog('Simpler Turtle Pi' v1.1)
