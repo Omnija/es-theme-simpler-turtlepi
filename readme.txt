@@ -15,6 +15,7 @@ Added AdvMAME and MAME4ALL systems
 Added Game and Watch
 Change MAME (Initialized) Logo
 Change Players Bar to Match Theme
+Fixed Foreign Languages being seen
 
 Changelog('Simpler Turtle Pi' v1.1)
 ==========================

@@ -106,16 +106,16 @@ license:		creative commons CC-BY-NC-SA
 	
 	<!--  md_lbl_players, md_players -->
 
-		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount, md_developer, md_publisher, md_genre, md_playcount, md_description">
+		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount, md_developer, md_publisher, md_genre, md_playcount, md_description, md_rating">
 			<fontPath>./assets/invisible.ttf</fontPath>
 			<fontSize>0.01</fontSize>
-			<size>0.0 0.01</size>
+			<pos>1 1</pos>
 		</text>
 
 		<datetime name="md_releasedate, md_lastplayed">
 			<fontPath>./assets/invisible.ttf</fontPath>
 			<fontSize>0.01</fontSize>
-			<size>0.0 0.01</size>
+			<pos>1 1</pos>
 		</datetime>
 		
 		<rating name="md_rating">
