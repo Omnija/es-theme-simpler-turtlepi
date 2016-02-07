@@ -90,13 +90,13 @@ license:		creative commons CC-BY-NC-SA
 		
 	</view>
 	
-	<view name="system, basic, detailed, grid">
+	<view name="system, basic, detailed">
 	
 		<helpsystem name="help">
 			<textColor>ffffff</textColor>
 			<iconColor>ffffff</iconColor>
 			<fontPath>./assets/font2.ttf</fontPath>
-			<pos>0.020 0.935</pos>
+			<pos>0.020 0.94</pos>
 			<fontSize>0.025</fontSize>
 		</helpsystem>
 
