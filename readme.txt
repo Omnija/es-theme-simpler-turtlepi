@@ -18,6 +18,7 @@ Change Players Bar to Match Theme
 Fixed Foreign Languages being seen
 Added Universal System (Options)
 Added SAM Coupé
+Added Game list sound fx
 
 Changelog('Simpler Turtle Pi' v1.1)
 ==========================
