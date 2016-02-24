@@ -130,6 +130,7 @@ license:		creative commons CC-BY-NC-SA
 			<secondaryColor>ffffff</secondaryColor>
 			<fontPath>./assets/font.ttf</fontPath>
 			<fontSize>0.030</fontSize>
+			<scrollSound>./assets/select.wav</scrollSound>
 		</textlist> 	
 		
 		<image name="logo">
