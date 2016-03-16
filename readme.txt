@@ -22,6 +22,8 @@ Fixed Foreign Languages being seen
 Added Universal System (Options)
 Added SAM Coupé
 Added Game list sound fx
+Added MAME LibRetro
+Added BBC Micro Computer
 
 Changelog('Simpler Turtle Pi' v1.1)
 ==========================
