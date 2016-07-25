@@ -11,6 +11,15 @@ or
 
 Open Menu -> Select UI Settings ->  Theme Set
 
+Changelog('Simpler Turtle Pi' v1.3)
+==========================
+Added Adventure Game Studio
+Added Channel (F)
+Added Oric Computer Series
+Added ResidualVM
+Added TurboGrafx-16
+Added Ti/99
+
 Changelog('Simpler Turtle Pi' v1.2)
 ==========================
 Added Dragon 32/64 and LOVE systems
