@@ -19,6 +19,7 @@ Added Oric Computer Series
 Added ResidualVM
 Added TurboGrafx-16
 Added Ti/99
+Added TRS 80 Micro PC
 
 Changelog('Simpler Turtle Pi' v1.2)
 ==========================
