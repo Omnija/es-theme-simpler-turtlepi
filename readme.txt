@@ -1,4 +1,4 @@
-Based on "Turtle Pi" Themes.
+﻿Based on "Turtle Pi" Themes.
 
 For use with EmulationStation (http://www.emulationstation.org/)
 
@@ -20,6 +20,8 @@ Added ResidualVM
 Added TurboGrafx-16
 Added Ti/99
 Added TRS 80 Micro PC
+Added Book Reader
+Added Pinball
 
 Changelog('Simpler Turtle Pi' v1.2)
 ==========================
