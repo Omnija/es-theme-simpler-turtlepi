@@ -10,6 +10,10 @@ or
 /home/pi/.emulationstation/themes/
 
 Open Menu -> Select UI Settings ->  Theme Set
+Changelog('Simpler Turtle Pi' v1.4)
+==========================
+Added PokeMini
+Added Nintendo 3DS
 
 Changelog('Simpler Turtle Pi' v1.3)
 ==========================
